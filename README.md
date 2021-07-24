@@ -1,6 +1,7 @@
+{::options parse_block_html="true" /} 
 # טפסים לפי קטגוריות
 
-<details><summary markdown='span'>רפואי</summary>
+<details><summary>רפואי</summary>
 
 [aaa](https://www.google.com)
 
