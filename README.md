@@ -23,7 +23,14 @@
 <details>
 <summary markdown='span'>טכני</summary>
 
-[תקלות בקבחת מידע רפואי](https://unitedhatzalah.formtitan.com/medical_information)
+[תקלות בקבלת מידע רפואי](https://unitedhatzalah.formtitan.com/medical_information)
+
+</details>
+
+<details>
+<summary markdown='span'>מוקד</summary>
+
+[דיווח ביקור קשיש](https://unitedhatzalah.formtitan.com/ten-kavod)
 
 </details>
 
