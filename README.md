@@ -1,8 +1,8 @@
 # טפסים לפי קטגוריות
 
 <details>
-<summary>Click to expand</summary>
+<summary>טפסים רפואיים</summary>
 
-טפסים רפואיים
+טופס תיעוד רפואי
 
 </details>
