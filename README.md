@@ -18,5 +18,11 @@
 
 [בדיקות כלי רכב](https://unitedhatzalah.formtitan.com/Bdikotx4)
 
+</details>
+
+<details>
+<summary markdown='span'>מוקד</summary>
+
+[פתיחת ויזה מבצעית](https://unitedhatzalah.formtitan.com/origin/ft22e322f11593939135175)
 
 </details>
