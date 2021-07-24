@@ -2,8 +2,7 @@
 
 [aaa](https://www.google.com) 
 
-<details>
-<summary>רפואי</summary>
+<details><summary>רפואי</summary>
 
 [aaa](https://www.google.com)
 
