@@ -1,7 +1,7 @@
 # טפסים לפי קטגוריות
 
 <details>
-<summary>רפואי</summary>
+<summary markdown='span'>רפואי</summary>
 
 [aaa](https://www.google.com)
 
