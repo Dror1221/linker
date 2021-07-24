@@ -1,8 +1,7 @@
 # טפסים לפי קטגוריות
 
 <details>
-<summary>טפסים רפואיים</summary>
+<summary>רפואי</summary>
 
-טופס תיעוד רפואי
-
+[טופס תיעוד אירוע רפואי](https://motid-1221.formtitan.com/Medical_journal#/)
 </details>
