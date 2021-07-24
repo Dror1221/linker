@@ -5,6 +5,8 @@
 
 [תיעוד אירוע רפואי](https://motid-1221.formtitan.com/Medical_journal)
 
+[טופס חולה/נפגע (לאמבולנס)](https://motid-1221.formtitan.com/tofes_choleh_nifga)
+
 </details>
 
 <details>
