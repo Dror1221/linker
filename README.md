@@ -1,4 +1,3 @@
-{::options parse_block_html="true" /} 
 # טפסים לפי קטגוריות
 
 <details>
