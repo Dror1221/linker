@@ -21,6 +21,13 @@
 </details>
 
 <details>
+<summary markdown='span'>טכני</summary>
+
+[תקלות בקבחת מידע רפואי](https://unitedhatzalah.formtitan.com/medical_information)
+
+</details>
+
+<details>
 <summary markdown='span'>מוקד</summary>
 
 > [פתיחת ויזה מבצעית](https://unitedhatzalah.formtitan.com/origin/ft22e322f11593939135175)
