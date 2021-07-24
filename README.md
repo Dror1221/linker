@@ -1,8 +1,6 @@
 # טפסים לפי קטגוריות
 
-[aaa](https://www.google.com) 
-
-<details><summary>רפואי</summary>
+<details><summary markdown='span'>רפואי</summary>
 
 [aaa](https://www.google.com)
 
