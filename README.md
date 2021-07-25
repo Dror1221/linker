@@ -25,6 +25,8 @@
 
 > [בדיקות כלי רכב](https://unitedhatzalah.formtitan.com/Bdikotx4)
 
+> [ביצוע טסט שנתי לרכב](https://unitedhatzalah.formtitan.com/Test_Orgen_Car)
+
 </details>
 
 <details>
