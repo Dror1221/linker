@@ -1,4 +1,11 @@
-# טפסים לפי קטגוריות
+# מנהל הקישורים 
+
+<details>
+<summary markdown='span'>כללי</summary>
+
+> [אתר שיבוצים (אמבולנס ובתי חולים)](http://med.1221.org.il)
+
+</details>
 
 <details>
 <summary markdown='span'>רפואי</summary>
