@@ -7,49 +7,49 @@
 <details>
 <summary markdown='span'>כללי</summary>
 
-[אתר שיבוצים (אמבולנס ובתי חולים)](http://med.1221.org.il)
+  <p class="tab">[אתר שיבוצים (אמבולנס ובתי חולים)](http://med.1221.org.il)</p>
 
 </details>
 
 <details>
 <summary markdown='span'>רפואי</summary>
 
-[תיעוד אירוע רפואי](https://motid-1221.formtitan.com/Medical_journal)
+  <p class="tab">[תיעוד אירוע רפואי](https://motid-1221.formtitan.com/Medical_journal)</p>
 
-[טופס חולה/נפגע (לאמבולנס)](https://motid-1221.formtitan.com/tofes_choleh_nifga)
+  <p class="tab">[טופס חולה/נפגע (לאמבולנס)](https://motid-1221.formtitan.com/tofes_choleh_nifga)</p>
 
 </details>
 
 <details>
 <summary markdown='span'>תחבורה</summary>
 
-[פתיחת משמרת](https://unitedhatzalah.formtitan.com/transferral_ambulances)
+  <p class="tab">[פתיחת משמרת](https://unitedhatzalah.formtitan.com/transferral_ambulances)</p>
 
-[חניכת נהגים](https://unitedhatzalah.formtitan.com/Chanich_Neagim) 
+  <p class="tab">[חניכת נהגים](https://unitedhatzalah.formtitan.com/Chanich_Neagim)</p> 
 
-[בדיקות כלי רכב](https://unitedhatzalah.formtitan.com/Bdikotx4)
+  <p class="tab">[בדיקות כלי רכב](https://unitedhatzalah.formtitan.com/Bdikotx4)</p>
 
-[ביצוע טסט שנתי לרכב](https://unitedhatzalah.formtitan.com/Test_Orgen_Car)
+  <p class="tab">[ביצוע טסט שנתי לרכב](https://unitedhatzalah.formtitan.com/Test_Orgen_Car)</p>
 
 </details>
 
 <details>
 <summary markdown='span'>טכני</summary>
 
-[תקלות בקבלת מידע רפואי](https://unitedhatzalah.formtitan.com/medical_information)
+<p class="tab">[תקלות בקבלת מידע רפואי](https://unitedhatzalah.formtitan.com/medical_information)</p>
 
 </details>
 
 <details>
 <summary markdown='span'>תן כבוד</summary>
 
-[דיווח ביקור קשיש](https://unitedhatzalah.formtitan.com/ten-kavod)
+  <p class="tab">[דיווח ביקור קשיש](https://unitedhatzalah.formtitan.com/ten-kavod)</p>
 
 </details>
 
 <details>
 <summary markdown='span'>מוקד</summary>
 
-[פתיחת ויזה מבצעית](https://unitedhatzalah.formtitan.com/origin/ft22e322f11593939135175)
+<p class="tab">[פתיחת ויזה מבצעית](https://unitedhatzalah.formtitan.com/origin/ft22e322f11593939135175)</p>
 
 </details>
