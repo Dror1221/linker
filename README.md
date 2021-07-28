@@ -21,6 +21,13 @@
 </details>
 
 <details>
+<summary markdown='span'>קורונה</summary>
+
+<p class="tab">[מתחמי בדיקות פקע"ר](https://drive.google.com/file/d/1zBZH6vLswpHx8i2XOWT0EXNilA9uT5-3/view)</p>
+
+</details>
+
+<details>
 <summary markdown='span'>תחבורה</summary>
 
   <p class="tab">[פתיחת משמרת](https://unitedhatzalah.formtitan.com/transferral_ambulances)</p>
