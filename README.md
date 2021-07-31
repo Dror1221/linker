@@ -34,6 +34,8 @@
 
   <p class="tab">[חניכת נהגים](https://unitedhatzalah.formtitan.com/Chanich_Neagim)</p> 
 
+  <p class="tab">[דו"ח תאונה](https://unitedhatzalah.formtitan.com/Doch_Teona)</p>
+
   <p class="tab">[בדיקות כלי רכב](https://unitedhatzalah.formtitan.com/Bdikotx4)</p>
 
   <p class="tab">[ביצוע טסט שנתי לרכב](https://unitedhatzalah.formtitan.com/Test_Orgen_Car)</p>
