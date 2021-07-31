@@ -50,6 +50,13 @@
 </details>
 
 <details>
+<summary markdown='span'>ALS</summary>
+
+<p class="tab">[הזמנת ציוד ALS](https://unitedhatzalah.formtitan.com/ALS)</p>
+
+</details>
+
+<details>
 <summary markdown='span'>תן כבוד</summary>
 
   <p class="tab">[דיווח ביקור קשיש](https://unitedhatzalah.formtitan.com/ten-kavod)</p>
