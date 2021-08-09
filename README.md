@@ -18,6 +18,8 @@
 
   <p class="tab">[טופס חולה/נפגע (לאמבולנס)](https://motid-1221.formtitan.com/tofes_choleh_nifga)</p>
 
+  <p class="tab">[דו"ח רפואי - ניידת טיפול נמרץ](https://motid-1221.formtitan.com/origin/tipul_nimratz)</p>
+
 </details>
 
 <details>
