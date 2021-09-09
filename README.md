@@ -56,12 +56,14 @@
 
 <p class="tab">[הזמנת ציוד ALS](https://unitedhatzalah.formtitan.com/ALS)</p>
 
+<p class="tab">[ספירת נרקוטיקה](https://unitedhatzalah.formtitan.com/samim)</p>
+
 </details>
 
 <details>
 <summary markdown='span'>תן כבוד</summary>
 
-  <p class="tab">[דיווח ביקור קשיש](https://unitedhatzalah.formtitan.com/ten-kavod)</p>
+<p class="tab">[דיווח ביקור קשיש](https://unitedhatzalah.formtitan.com/ten-kavod)</p>
 
 </details>
 
