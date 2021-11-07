@@ -34,7 +34,9 @@
 
   <p class="tab">[פתיחת משמרת](https://unitedhatzalah.formtitan.com/transferral_ambulances)</p>
 
-  <p class="tab">[חניכת נהגים](https://unitedhatzalah.formtitan.com/Chanich_Neagim)</p> 
+  <p class="tab">[חניכת נהגים/רוכבים](https://unitedhatzalah.formtitan.com/Chanich_Neagim)</p> 
+
+  <p class="tab">[הגשה לטסט](https://unitedhatzalah.formtitan.com/Test_Dchofot)</p> 
 
   <p class="tab">[דו"ח תאונה](https://unitedhatzalah.formtitan.com/Doch_Teona)</p>
 
